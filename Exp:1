@@ -1,1 +1,10 @@
+void main() {
+  print("Hello, Dart!");  
+  int rno = 504;                  
+  String name = "Juveria";   
+  bool isStudent = true;  
+  print("My name is $name");
+  print("My Rollno is $rno");
+  print("Am I a student? $isStudent");
+}
 
