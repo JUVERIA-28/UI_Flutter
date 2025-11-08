@@ -1,10 +1,9 @@
 void main() {
-  print("Hello, Dart!");  
-  int rno = 504;                  
-  String name = "Juveria";   
-  bool isStudent = true;  
-  print("My name is $name");
-  print("My Rollno is $rno");
-  print("Am I a student? $isStudent");
+  print("Hello, Dart!");
+  int a = 10;
+  double b = 5.5;
+  String name = "Flutter";
+  double sum = a + b;
+  print("Sum = $sum");
+  print("Welcome to $name development!");
 }
-
