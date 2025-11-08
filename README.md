@@ -25,6 +25,7 @@ Output:
     Output displayed as expected on the console.
 
 
-   <img width="1638" height="874" alt="Screenshot 2025-11-05 150833" src="https://github.com/user-attachments/assets/beb0763e-9fc2-4a79-821f-893485a51d8d" />
+   <img width="1919" height="912" alt="Screenshot 2025-11-08 191119" src="https://github.com/user-attachments/assets/5d04bea4-1135-477f-92e6-1d8731fcc720" />
+
 
 
