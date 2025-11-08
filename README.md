@@ -1,4 +1,4 @@
----->Experiment 1[A]:
+Experiment 1[A]:
    Install Flutter and Dart SDK
 Aim:
   To install Flutter and Dart SDK on your system and verify the setup.
@@ -12,7 +12,7 @@ Output:
     Flutter and Dart SDK installed successfully.
     flutter doctor command shows no issues.
 
----->Experiment 1[B]:
+Experiment 1[B]:
   Write a simple Dart program
 
 Aim:
@@ -24,6 +24,7 @@ Output:
     Dart program runs successfully.
     Output displayed as expected on the console.
 
-    <img width="1919" height="912" alt="Screenshot 2025-11-08 191119" src="https://github.com/user-attachments/assets/46285b52-14e7-46ad-81cd-124226910e69" />
+
+   <img width="1638" height="874" alt="Screenshot 2025-11-05 150833" src="https://github.com/user-attachments/assets/beb0763e-9fc2-4a79-821f-893485a51d8d" />
 
 
