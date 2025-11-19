@@ -1,16 +1,22 @@
-# layout_demo
+# ***Experiment 2(a): Explore Flutter Widgets***
 
-A new Flutter project.
+## **Aim**
+To explore and understand basic Flutter widgets such as **Text**, **Image**, and **Container**, and learn how they are used to build UI elements in a Flutter application.
 
-## Getting Started
+## **Procedure**
+1. Created a new Flutter project using the command:  
+   ```flutter create a_widgets```
+2. Opened the project in **VS Code**.
+3. Navigated to the `lib` folder and opened **main.dart**.
+4. Replaced the existing code with the required Flutter widget examples.
+5. Ran the app using:
+   - **Run → Start Debugging**, or  
+   - The command: ```flutter run```
 
-This project is a starting point for a Flutter application.
+## **Program**
+```dart
+// See main.dart file for complete code.
 
-A few resources to get you started if this is your first Flutter project:
+### Output 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[<img src="widgets_output.png" width="300"/>](widgets_output.png)
